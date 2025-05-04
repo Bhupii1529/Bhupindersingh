@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Stats
 
-![Bhupinder's GitHub stats]()
+[Bhupinder's GitHub stats]()
 
 ---
 
